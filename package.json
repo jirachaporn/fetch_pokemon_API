@@ -1,6 +1,6 @@
 {
-  "homepage": "https://jirachaporn.github.io/frontend-1/",
-  "name": "frontend-1",
+  "homepage": "https://jirachaporn.github.io/frontend-2/",
+  "name": "frontend-2",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -13,6 +13,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "gh-pages": "^6.3.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
   },
