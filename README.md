@@ -1,8 +1,29 @@
-# React + Vite
+# 🐱‍🏍 Fetch Pokémon API
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and fun React web app that fetches Pokémon data from the [PokéAPI](https://pokeapi.co/) and displays it in a responsive UI. Built for practicing API fetching, React components, and styling.
 
-Currently, two official plugins are available:
+![GitHub Repo](https://img.shields.io/badge/React-App-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
+
+## 🚀 Live Demo
+
+🔗 [**View the App Here**](https://jirachaporn.github.io/fetch_pokemon_API/)
+
+---
+
+## 📸 Features
+
+- 🔍 Fetch Pokémon data from [https://pokeapi.co](https://pokeapi.co)
+- 📋 Display Pokémon names, images (sprites), and details
+- ⚡ Responsive and lightweight UI
+- 🧠 Great for beginners learning React + APIs
+
+---
+
+## 🛠️ Technologies Used
+
+- **React** (with Functional Components)
+- **JavaScript**
+- **CSS**
+- **Fetch API** or `Axios`
